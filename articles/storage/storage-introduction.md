@@ -24,7 +24,7 @@ Azure Storage is the cloud storage solution for modern applications that rely on
 
 * What Azure Storage is, and how you can take advantage of it in your cloud, mobile, server, and desktop applications
 * What kinds of data you can store with the Azure Storage services: blob (object) data, NoSQL table data, queue messages, and file shares.
-* How access to your data in Azure Storage is managed
+* How data access in Azure Storage is managed
 * How your Azure Storage data is made durable via redundancy and replication
 * Where to go next to build your first Azure Storage application
 
